@@ -17,7 +17,7 @@ tutorials, learning its basics. Luckily, C# was similar enough to Java that we m
 
 ## Acknowledgments
 
-Enemy animations were done by Kirtan Buddhev
-Arrangement of assets on the map were done by Grace Liu
+* Enemy animations were done by Kirtan Buddhev
+* Arrangement of assets on the map were done by Grace Liu
 
-This project used free assets availabe from Unity's asset store. Rob Pearson's AI script edited to move the enemies.
+* This project used free assets availabe from Unity's asset store. Rob Pearson's AI script edited to move the enemies.

@@ -12,8 +12,7 @@ I had never created a serious Unity or C# project before, so there was a lot I n
 tutorials, learning its basics. Luckily, C# was similar enough to Java that we managed to pick it up quickly.
 
 ### Choosing to develop on the Gear VR
-*To be added later.
-
+Initially, I had planned to develop this game on the HTC Vive because of its superiority with room scale and accurate controller tracking. However, I wanted my classmates to be able to test the game out themselves so I instead chose to develop on the Gear VR, as Samsung had recently released its controller.
 
 ## Acknowledgments
 
